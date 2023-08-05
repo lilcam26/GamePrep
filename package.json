@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "create-react-app": "^1.2.1",
-    "node.js": "^0.0.1-security",
-    "react": "^18.2.0"
-  }
-}
