@@ -1,0 +1,142 @@
+
+
+.App2 {
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    height: 100vh;
+    background-color: #F5F4F2;
+}
+
+.left-pad {
+    padding-left: 5%;
+}
+
+.Playbook {
+    margin: 0%;
+    padding: 0%;
+    padding-top: 11%;
+    border: 0%;
+    font-size: 10vw;
+    font-style: italic;
+    font-weight: 900;
+  }
+.groupspb {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;   
+    position: relative;
+    top: 2vw;
+    font-weight: 900;
+    width: 65vw;
+    font-size: 4vw;
+    color: #93A3BB;
+}
+
+.play {
+    width: 95%;
+    height: 35vw;
+    position: relative;
+    top: 10vw;
+}
+
+.playhead {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    font-size: 6.5vw;
+    font-weight: 900;
+    position: relative;
+    left: 15%;
+}
+.playsub {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    font-size: 4vw;
+    font-weight: 400;
+    position: relative;
+    top: 1vw;
+    left: 15%;
+}
+
+.qhead {
+    position: relative;
+    font-size: 5vw;
+    font-weight: 900;
+}
+
+.qbox {
+    height: 45vw;
+    width:77.5vw;
+    box-shadow: 0em 0em .5em .8vw #cfcfcf;
+    border-radius: 3vw;
+    position: relative;
+    left: 11vw;
+    top: 8vw;
+}
+
+.qcir {
+    position: relative;
+    background-color: #FF0000;
+    height: 3vw;
+    width: 3vw;
+    border-radius: 3vw;
+    bottom: 16vw;
+    left: 1vw;
+}
+
+.nhead {
+    position: relative;
+    font-size: 5vw;
+    font-weight: 900;
+    top: 15vw;
+}
+
+.nbox {
+    height: 45vw;
+    width:88.5vw;
+    box-shadow: 0em 0em .5em .8vw #cfcfcf;
+    border-radius: 3vw;
+    position: relative;
+    top: 24vw;
+}
+
+
+.s-cap {
+    height: 12vw;
+    width: 12vw;
+    box-shadow: 0em 0em .5em .8vw #cfcfcf;
+    position: fixed;
+    right: 5%;
+    top: 10.3vw;
+    border-radius: 4vw;
+}
+
+.sicon {
+    position: relative;
+    left: 20%;
+    bottom: 50%;
+}
+
+.foot{
+    height: 40vw;
+    width: 100.1vw;
+    position: fixed;
+    bottom: -17vw;
+    left: -.785vw;
+    background-color: white;
+    border-radius: 10vw;
+    box-shadow: 0em 0em .5em .8vw #cfcfcf;
+}
+
+.iconFlex {
+    display: flex;
+    flex-direction: row;
+    left: 15vw;
+    bottom: -1vw;
+    justify-content: space-between;
+    position: inherit;
+    width: 70vw;
+}

@@ -1,0 +1,160 @@
+
+
+.App2 {
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    height: 100vh;
+    background-color: #F5F4F2;
+}
+
+.left-pad {
+    padding-left: 5%;
+}
+
+.Playbook {
+    margin: 0%;
+    padding: 0%;
+    padding-top: 11%;
+    border: 0%;
+    font-size: 10vw;
+    font-style: italic;
+    font-weight: 900;
+  }
+.groupspb {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;   
+    position: relative;
+    top: 2vw;
+    font-weight: 900;
+    width: 65vw;
+    font-size: 4vw;
+    color: #93A3BB;
+}
+
+.play {
+    width: 95%;
+    height: 130vw;
+    position: relative;
+    top: 9vw;
+}
+
+.playhead2 {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    font-size: 7.2vw;
+    font-weight: 900;
+    position: relative;
+}
+.playsub2 {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    font-size: 4.8vw;
+    font-weight: 400;
+    position: relative;
+    top: 1vw;
+}
+.keyw{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    position: relative;
+    top: 4vw;
+    width: 23vw;
+    height: 7.5vw;
+    border: 1.8px solid black;
+    text-align: center;
+    border-radius: 1.5vw;
+}
+.pb {
+    font-size: 3.6vw;
+    font-weight: 900;
+    position: relative;
+    top: 1.6vw;
+}
+.playimg {
+    width: 90vw;
+    height: 80vw;
+    position: relative;
+    top: 8vw;
+    box-shadow: 0em 0em .5em .8vw #cfcfcf;
+}
+.dot1 {
+    height: 3vw;
+    width: 3vw;
+    border-radius: 3vw;
+    background-color: black;
+    position: relative;
+    bottom: 18vw;
+    left:38vw;
+}
+.dot2{
+    height: 2.6vw;
+    width: 2.5vw;
+    border-radius: 2.5vw;
+    border: 1px solid black;
+    border-style: inset;
+    position: relative;
+    bottom: 21.1vw;
+    left:43vw;
+}
+.dot3 {
+    height: 2.5vw;
+    width: 2.5vw;
+    border-radius: 2.5vw;
+    border: 1px solid black;
+    border-style: inset;
+    position: relative;
+    bottom: 24.1vw;
+    left:48vw;
+}
+
+.playdesc {
+    text-align: center;
+    position: relative;
+    left: -1vw;
+    top: 16vw;
+    font-size: 4.3vw;
+    font-weight: 400;
+}
+
+.s-cap {
+    height: 12vw;
+    width: 12vw;
+    box-shadow: 0em 0em .5em .8vw #cfcfcf;
+    position: fixed;
+    right: 5%;
+    top: 10.3vw;
+    border-radius: 4vw;
+}
+
+.sicon {
+    position: relative;
+    left: 25%;
+    bottom: 50%;
+}
+
+.foot{
+    height: 40vw;
+    width: 100.1vw;
+    position: fixed;
+    bottom: -17vw;
+    left: -.785vw;
+    background-color: white;
+    border-radius: 10vw;
+    box-shadow: 0em 0em .5em .8vw #cfcfcf;
+}
+
+.iconFlex {
+    display: flex;
+    flex-direction: row;
+    left: 15vw;
+    bottom: -1vw;
+    justify-content: space-between;
+    position: inherit;
+    width: 70vw;
+}

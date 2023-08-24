@@ -1,0 +1,166 @@
+:root {
+  --color-primary: white;
+  --color-secondary: ;
+  --color-tertiary: ;
+  --color-quaternary: ;
+}
+
+
+
+/*  Background  */
+
+.capsule {
+  background-color: #F5F4F2;
+  height: 110vh;
+  width: 100vw;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  margin-left: 6%;
+  padding: 0%;
+  border: 0%;
+  background-color: #F5F4F2;
+  height: 110vh;
+}
+
+.logo {
+  padding-top: 4.5%;
+}
+
+.title {
+  margin: 0%;
+  margin-top: -3%;
+  padding: 0%;
+  border: 0%;
+  font-size: 7vw;
+  font-style: italic;
+  font-weight: 900;
+  
+}
+.sub {
+  margin: 0%;
+  border: 0%;
+  font-size: 4.8vw;
+  font-style: italic;
+  font-weight: 400;
+  margin-top: 1%;
+
+}
+
+/* Foreground */
+
+.SIbox{
+  margin-top: 12%;
+  margin-left: 1vw;
+  padding: 0%;
+  font-size: 7vw;
+  font-style: italic;
+  font-weight: 900;
+  width: 75vw;
+  height: 90vw;
+  background-color: white;
+  text-align: left;
+  border: 2px solid #DEDEDE;
+  border-radius: 2vw;
+  box-shadow: -.1em .1em .6em .1vw #c3c3c3;
+  
+}
+
+.SIhead {
+  margin-top: 6vw;
+  margin-left: 4vw;
+  font-size: 5vw;
+  font-weight: 900;
+  font-style: normal;
+  margin-bottom: 0vw;
+}
+
+.SIsub {
+  margin-top: 2vw;
+  margin-left: 4vw;
+  font-size: 3.2vw;
+  color:#93A3BB;
+  font-weight: 10;
+  font-style: normal;
+  width: 70vw;
+}
+
+#input1 {
+  border-top: 0;
+  border-right:0;
+  border-left: 0;
+  background-color: transparent;
+  width: 64vw;
+  height:7vw;
+  font-size: 3.5vw;
+  border-width: .4vw;
+  border-color: #DEDEDE;
+  padding-bottom: 2vw;
+  padding-left: 2vw;
+  margin-top: 13vw;
+  margin-left: 4vw;
+}
+
+#input2 {
+  border-top: 0;
+  border-right:0;
+  border-left: 0;
+  background-color: transparent;
+  width: 64vw;
+  height:7vw;
+  font-size: 3.5vw;
+  border-width: .4vw;
+  border-color: #DEDEDE;
+  padding-bottom: 2vw;
+  padding-left: 2vw;
+  margin-top: 5vw;
+  margin-left: 4vw;
+}
+
+.SIbutton {
+  width: 30vw;
+  border: 0;
+  height: 12vw;
+  margin-left: 4vw;
+  margin-top: 15vw;
+  font-weight: 900;
+  font-size: 3.5vw;
+  border-radius: 1vw;
+  background-color: #F2F8FE;
+  transition-duration: .5s;
+  color: black;
+}
+
+/* Footer */
+
+.termFlex {
+  display: flex;
+  width: 87vw;
+  flex-direction: row;
+  align-items: center;
+  height: 10vw;
+  position: absolute;
+  font-size: 3vw;
+  justify-content: space-between;
+  bottom: -40vw;
+  left: 6%;
+}
+
+ #item {
+  border: 0;
+  border-left: .4vw solid #DEDEDE;
+  padding-left: 4vw;
+  margin: 0vw;
+  background-color: #F5F4F2;
+
+ }
+ #item1 {
+  border: 0;
+  background-color: #F5F4F2;
+
+ }
+
+
+
